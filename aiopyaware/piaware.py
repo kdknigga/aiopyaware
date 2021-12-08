@@ -2,6 +2,9 @@ import aiohttp
 import asyncio
 import logging
 
+from .util import *
+from .receiver import Receiver
+
 _LOGGER = logging.getLogger(__name__)
 
 class PiAware():
@@ -12,15 +15,32 @@ class PiAware():
         self._address = address
         self._session = session
         self.status = {}
-
+        self.receivers = {'1090': None, '978': None}
     
-    async def _get_json(self, path: str) -> dict:
-        url = f"{self._address}/{path}"
-        _LOGGER.debug(f"Requesting: {url}")
-        
-        async with self._session.get(url) as resp:
-            json = await resp.json()
-            return json
-        
+    
     async def update_status(self) -> None:
-        self.status = await self._get_json("status.json")
+        _LOGGER.debug("Updating piaware status")
+        self.status = await rmt_json_to_dict(self._session, f"{self._address}/status.json")
+
+
+    async def get_receivers(self) -> None:
+        if len(self.status) == 0:
+            await self.update_status()
+        
+        if 'radio' in self.status:
+            self.receivers['1090'] = Receiver(f"{self._address}/skyaware/data/", self._session)
+        
+        if 'uat_radio' in self.status:
+            self.receivers['978'] = Receiver(f"{self._address}/skyaware/data-978/", self._session)
+    
+    
+    async def update_receivers(self) -> None:
+        for r in self.receivers.values():
+            if r:
+                await r.update_receiver_data()
+    
+    async def get_aircraft(self) -> None:
+        for r in self.receivers.values():
+            if r:
+                await r.get_aircraft()
+    
