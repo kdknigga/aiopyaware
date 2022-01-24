@@ -37,6 +37,8 @@ class PiAware:
                 f"{self._address}/skyaware/data-978/", self._session
             )
 
+        await self.update_receivers()
+
     async def update_receivers(self) -> None:
         for r in self.receivers.values():
             if r:
