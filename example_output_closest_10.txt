@@ -1,0 +1,20 @@
+    - aa8a07
+       callsign: UAL416   distance: 5.7nm altitude: 11,275ft groundspeed: 368.4kt track: 40.0° 
+    - aac365
+       callsign: JSL21    distance: 6.0nm altitude: 36,000ft groundspeed: 299.0kt track: 326.0° 
+    - a48321
+       callsign: DAL1734  distance: 9.7nm altitude: 33,000ft groundspeed: 537.5kt track: 75.3° 
+    - acbf63
+       callsign: AAL510   distance: 16.9nm altitude: 7,825ft groundspeed: 225.6kt track: 73.3° 
+    - ac6445
+       callsign: AAL2311  distance: 21.9nm altitude: 6,825ft groundspeed: 285.2kt track: 58.0° 
+    - a7dd8e
+       callsign: None distance: 27.2nm altitude: 5,350ft groundspeed: 231.2kt track: 49.6° 
+    - a3522b
+       callsign: N313CC   distance: 27.5nm altitude: 36,025ft groundspeed: 379.7kt track: 281.5° 
+    - a1ee31
+       callsign: N223WY   distance: 29.2nm altitude: 28,000ft groundspeed: 260.7kt track: 338.2° 
+    - aa7b33
+       callsign: SWA1507  distance: 31.0nm altitude: 14,175ft groundspeed: 367.1kt track: 88.4° 
+    - abc0c1
+       callsign: None distance: 32.3nm altitude: 6,550ft groundspeed: 294.7kt track: 76.1° 

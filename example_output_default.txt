@@ -1,0 +1,130 @@
+1090 MHz Radio:
+  - status:  green
+  - version:  7.1~bpo10+1
+  - aircraft count:  60
+  - aircraft list:
+    - a614fb
+       callsign: None distance: Unknown altitude: Unknown groundspeed: 361.5kt track: 252.1° 
+    - ab282b
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a85f20
+       callsign: None distance: Unknown altitude: 35,000ft groundspeed: 553.7kt track: 76.3° 
+    - a499c3
+       callsign: None distance: 93.2nm altitude: 38,000ft groundspeed: 396.4kt track: 272.5° 
+    - acf5bb
+       callsign: None distance: Unknown altitude: 12,275ft groundspeed: 287.9kt track: 350.6° 
+    - a49a82
+       callsign: EJA396   distance: 64.8nm altitude: 14,675ft groundspeed: 410.0kt track: 74.4° 
+    - a988d9
+       callsign: None distance: Unknown altitude: 39,000ft groundspeed: 489.7kt track: 145.0° 
+    - a03fff
+       callsign: AAL4     distance: 49.3nm altitude: 35,000ft groundspeed: 519.7kt track: 81.5° 
+    - a6e32b
+       callsign: RDN864   distance: 106.2nm altitude: 39,000ft groundspeed: 526.4kt track: 115.8° 
+    - aa7b33
+       callsign: SWA1507  distance: 29.4nm altitude: 13,525ft groundspeed: 347.1kt track: 88.5° 
+    - a05c59
+       callsign: None distance: Unknown altitude: 15,575ft groundspeed: Unknown track: Unknown 
+    - aad3f2
+       callsign: N797VS   distance: 77.2nm altitude: 33,350ft groundspeed: 478.4kt track: 37.0° 
+    - a6dff9
+       callsign: None distance: 67.5nm altitude: 24,000ft groundspeed: 406.6kt track: 5.1° 
+    - a42a37
+       callsign: EDV5155  distance: 43.7nm altitude: 16,175ft groundspeed: 407.3kt track: 83.9° 
+    - a915cf
+       callsign: ENY3525  distance: 41.8nm altitude: 16,650ft groundspeed: 426.5kt track: 74.5° 
+    - a48321
+       callsign: DAL1734  distance: 7.7nm altitude: 33,000ft groundspeed: 537.7kt track: 75.2° 
+    - abc0c1
+       callsign: None distance: 35.5nm altitude: 7,625ft groundspeed: Unknown track: Unknown 
+    - a3522b
+       callsign: N313CC   distance: 27.6nm altitude: 35,775ft groundspeed: 376.3kt track: 281.3° 
+    - a89b9b
+       callsign: PDT6174  distance: 53.2nm altitude: 21,025ft groundspeed: 416.0kt track: 89.6° 
+    - ad0d5d
+       callsign: N940CC   distance: 64.7nm altitude: 39,000ft groundspeed: 550.1kt track: 91.0° 
+    - a1ee31
+       callsign: N223WY   distance: 29.8nm altitude: 28,000ft groundspeed: 261.6kt track: 338.2° 
+    - a575dc
+       callsign: N451AJ   distance: 58.0nm altitude: 36,675ft groundspeed: 482.7kt track: 94.9° 
+    - a33aa7
+       callsign: EDV5188  distance: 81.7nm altitude: 35,000ft groundspeed: 526.9kt track: 80.1° 
+    - a30f85
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a1d4bc
+       callsign: ENY3836  distance: 62.6nm altitude: 21,000ft groundspeed: 420.6kt track: 156.6° 
+    - aca5ff
+       callsign: SKW5128  distance: 75.8nm altitude: 28,075ft groundspeed: 358.9kt track: 355.8° 
+    - acbf63
+       callsign: AAL510   distance: 16.4nm altitude: 8,025ft groundspeed: 227.4kt track: 72.6° 
+    - a3b87f
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a1bb83
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a3b4fe
+       callsign: NWF338   distance: 58.0nm altitude: 28,025ft groundspeed: 381.6kt track: 168.5° 
+    - aa8a07
+       callsign: UAL416   distance: 7.1nm altitude: 11,300ft groundspeed: 370.5kt track: 40.0° 
+    - aac365
+       callsign: JSL21    distance: 6.5nm altitude: 36,000ft groundspeed: 298.0kt track: 325.0° 
+    - aa60da
+       callsign: SKW3145  distance: 65.4nm altitude: 30,900ft groundspeed: 360.6kt track: 208.1° 
+    - ab774b
+       callsign: AAL1352  distance: 64.0nm altitude: 32,000ft groundspeed: 356.4kt track: 262.1° 
+    - a7ef08
+       callsign: SKW3610  distance: 41.8nm altitude: 34,000ft groundspeed: 404.0kt track: 336.7° 
+    - ab284d
+       callsign: AAL2180  distance: 85.3nm altitude: 33,275ft groundspeed: 430.1kt track: 178.8° 
+    - a7dd8e
+       callsign: None distance: 27.2nm altitude: 5,350ft groundspeed: 231.2kt track: 49.6° 
+    - a76f6c
+       callsign: UAL2242  distance: 73.8nm altitude: 34,025ft groundspeed: 378.2kt track: 259.6° 
+    - a9ab72
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - abdc96
+       callsign: ASH6311  distance: 77.7nm altitude: 31,900ft groundspeed: 328.6kt track: 266.7° 
+    - a0d6fb
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a8847f
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a94105
+       callsign: None distance: Unknown altitude: 5,300ft groundspeed: 158.8kt track: 298.2° 
+    - ac6445
+       callsign: AAL2311  distance: 20.9nm altitude: 7,300ft groundspeed: 277.9kt track: 44.3° 
+    - a715ef
+       callsign: RDY10    distance: 67.7nm altitude: 25,125ft groundspeed: 421.9kt track: 342.3° 
+    - a99b5f
+       callsign: None distance: 97.2nm altitude: 36,000ft groundspeed: Unknown track: Unknown 
+    - ab050f
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a99293
+       callsign: CKS335   distance: 75.2nm altitude: 32,000ft groundspeed: 463.6kt track: 344.6° 
+    - a44938
+       callsign: UAL239   distance: 39.7nm altitude: 36,000ft groundspeed: 373.0kt track: 269.7° 
+    - aa4200
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a11ba0
+       callsign: None distance: 85.4nm altitude: 40,000ft groundspeed: 399.4kt track: 262.5° 
+    - ab03a4
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a9fc34
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a150a2
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a9b7c4
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - abacd2
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - accd23
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - a4d8f6
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - ad6595
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+    - adc1a5
+       callsign: None distance: Unknown altitude: Unknown groundspeed: Unknown track: Unknown 
+978 MHz Radio:
+  - status:  amber
+  - version:  dump978 7.1~bpo10+1
+  - aircraft count:  0
+  - aircraft list:
